@@ -105,6 +105,12 @@ var btn = FindElementById(mainForm, AutomationId)
 btn.Invoke();
 ```
 
+## これで調べたとして自動化コードはどう書けばいいの？
+
+Qiitaにちょっと書いてみました。拙稿で恐縮ですが良かったら参考にしてあげて下さい。
+
+https://qiita.com/ken_hamada/items/501b164374667319d270
+
 ## 参考にさせて頂いたページ
 
 以下の情報がとてもとても参考になりました。感謝いたします。
